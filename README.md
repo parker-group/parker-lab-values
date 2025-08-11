@@ -1,9 +1,10 @@
 # Parker Group Values and Expectations
 *Updated: 24.11.13*
 
-<img src="https://raw.githubusercontent.com/parker-group/parker-group.github.io/main/images/GroupPhoto.JPG" alt="Photo of Parker lab in 2023" width="500">
-
 ---
+## Collegiality
+
+<img src="https://raw.githubusercontent.com/parker-group/parker-group.github.io/main/images/GroupPhoto.JPG" alt="Photo of Parker lab in 2023" width="300" align="right">
 
 ## Collegiality
 
