@@ -126,4 +126,11 @@
 - Keep in touch with your mentors regularly (e.g., touch base quarterly).  
 - You’re busy, but they are likely busier. Help them keep up with you by being proactive with finding times to meet, putting those meetings on their calendar, etc.  
 - Develop meaningful relationships by valuing their time, experience, and expertise.  
-- Be respectful of their advice and integrate their feedback thoughtfully into your work.  
+- Be respectful of their advice and integrate their feedback thoughtfully into your work.
+
+  ---
+
+## Parker Lab 2023
+
+![Photo of Parker group in 2023](https://raw.githubusercontent.com/parker-group/parker-group.github.io/main/images/GroupPhoto.JPG)
+
