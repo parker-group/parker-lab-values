@@ -1,12 +1,9 @@
 # Parker Group Values and Expectations
 *Updated: 24.11.13*
 
----
 ## Collegiality
 
 <img src="https://raw.githubusercontent.com/parker-group/parker-group.github.io/main/images/GroupPhoto.JPG" alt="Photo of Parker lab in 2023" width="300" align="right">
-
-## Collegiality
 
 - Be welcoming to one another and proactive in opening up discussions or offering assistance.  
 - Collaborations within and outside of the group are key to success (e.g., sharing data, code, protocols, and helping each other). The best global health work comes from teams.  
