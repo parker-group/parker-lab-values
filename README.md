@@ -132,5 +132,5 @@
 
 ## Parker Lab 2023
 
-![Photo of Parker group in 2023](https://raw.githubusercontent.com/parker-group/parker-group.github.io/main/images/GroupPhoto.JPG)
+![Photo of Parker group in 2023](https://raw.githubusercontent.com/parker-group/parker-group.github.io/main/images/GroupPhoto.JPG width="500")
 
