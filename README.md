@@ -128,9 +128,10 @@
 - Develop meaningful relationships by valuing their time, experience, and expertise.  
 - Be respectful of their advice and integrate their feedback thoughtfully into your work.
 
-  ---
+---
 
 ## Parker Lab 2023
 
-![Photo of Parker group in 2023](https://raw.githubusercontent.com/parker-group/parker-group.github.io/main/images/GroupPhoto.JPG width="500")
+<img src="https://raw.githubusercontent.com/parker-group/parker-group.github.io/main/images/GroupPhoto.JPG" alt="Photo of Parker lab in 2023" width="500">
+
 
