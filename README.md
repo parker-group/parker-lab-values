@@ -10,7 +10,7 @@
 - Share and celebrate both achievements and failures.  
 - Be open to giving and receiving feedback.  
 - There’s no competition within the group, but always try your best.  
-- **Our approach:** Demonstrate that a kinder, more thoughtful, and collaborative scientific process is as effective — or more so — than competitive and ruthless methods.  
+- **Our approach:** Demonstrate that a kinder, more thoughtful, and collaborative scientific process is as effective — or more so — than hyper-competitive and ruthless methods.  
 - Collaboration should be the rule within our group.  
 - Being direct is fine, but always be kind.  
 - Remember: Sharing is caring.  
