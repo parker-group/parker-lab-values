@@ -233,4 +233,3 @@ When thinking about changes, think about what is good for the group rather than 
 The goal is not to make everyone work the same way.
 
 The goal is to create a place where different kinds of people can do excellent work together.
-```
