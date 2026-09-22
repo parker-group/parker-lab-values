@@ -1,7 +1,3 @@
-
-
-
-```markdown
 # Parker Group Values and Expectations
 
 This is a living document describing the values, expectations, and general culture of the Parker Group. It is written primarily for PhD students whom Daniel advises or co-advises, although much of it applies more broadly to people working with the group.
